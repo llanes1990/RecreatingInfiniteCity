@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite City", "Infinite City\Infinite City\Infinite City.csproj", "{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite City Content", "Infinite City\Infinite CityContent\Infinite City Content.contentproj", "{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1332C7BE-D399-4C03-86BA-E5C6FE9B4F21}"
+	ProjectSection(SolutionItems) = preProject
+		Infinite City.vsmdi = Infinite City.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite City Tests", "Infinite City Tests\Infinite City Tests.csproj", "{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Infinite City.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Debug|x86.ActiveCfg = Debug|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Debug|x86.Build.0 = Debug|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Release|Any CPU.ActiveCfg = Release|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Release|x86.ActiveCfg = Release|x86
+		{EF8E2F9B-8D23-4C6D-A5EE-DA8FB30E3FFD}.Release|x86.Build.0 = Release|x86
+		{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}.Debug|x86.ActiveCfg = Debug|x86
+		{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}.Debug|x86.Build.0 = Debug|x86
+		{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}.Release|Any CPU.ActiveCfg = Release|x86
+		{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}.Release|x86.ActiveCfg = Release|x86
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Debug|x86.Build.0 = Debug|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Release|x86.ActiveCfg = Release|Any CPU
+		{C22D7D1C-F8F3-4E64-9544-57FE0A3C6C49}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

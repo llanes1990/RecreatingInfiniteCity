@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\BaseTile.png</Source>
+      <Name>Tiles\BaseTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\BaseTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.1426939-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\ArboretumTile.png</Source>
+      <Name>Tiles\ArboretumTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\ArboretumTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.0646894-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BankTile.png</Source>
+      <Name>Tiles\BankTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\BankTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.4747129-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\ConstructionSiteTile.png</Source>
+      <Name>Tiles\ConstructionSiteTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\ConstructionSiteTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.161695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\DisasterSiteTile.png</Source>
+      <Name>Tiles\DisasterSiteTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\DisasterSiteTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.0866907-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\EmbassyTile.png</Source>
+      <Name>Tiles\EmbassyTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\EmbassyTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.2206983-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FactoryTile.png</Source>
+      <Name>Tiles\FactoryTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\FactoryTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.4477113-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\GuildHallTile.png</Source>
+      <Name>Tiles\GuildHallTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\GuildHallTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.0996914-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\HotelTile.png</Source>
+      <Name>Tiles\HotelTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\HotelTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.4677125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\HousingTile.png</Source>
+      <Name>Tiles\HousingTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\HousingTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.1556946-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\LibraryTile.png</Source>
+      <Name>Tiles\LibraryTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\LibraryTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.2396994-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\MausoleumTile.png</Source>
+      <Name>Tiles\MausoleumTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\MausoleumTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.1116921-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\PlazaTile.png</Source>
+      <Name>Tiles\PlazaTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\PlazaTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.2517001-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\PoliceHQTile.png</Source>
+      <Name>Tiles\PoliceHQTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\PoliceHQTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.092691-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\PortTile.png</Source>
+      <Name>Tiles\PortTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\PortTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.1816961-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\PostOfficeTile.png</Source>
+      <Name>Tiles\PostOfficeTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\PostOfficeTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.0776901-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\PowerStationTile.png</Source>
+      <Name>Tiles\PowerStationTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\PowerStationTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.2086976-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\SalvageYardTile.png</Source>
+      <Name>Tiles\SalvageYardTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\SalvageYardTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.214698-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\SecurityGuardpostTile.png</Source>
+      <Name>Tiles\SecurityGuardpostTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\SecurityGuardpostTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.0586891-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\ShoppingComplexTile.png</Source>
+      <Name>Tiles\ShoppingComplexTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\ShoppingComplexTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.1686954-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\StadiumTile.png</Source>
+      <Name>Tiles\StadiumTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\StadiumTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.2456998-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\TempleTile.png</Source>
+      <Name>Tiles\TempleTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\TempleTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.0526887-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\TransitStationTile.png</Source>
+      <Name>Tiles\TransitStationTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\TransitStationTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.1886965-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BaseTileGlow.png</Source>
+      <Name>Tiles\BaseTileGlow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\BaseTileGlow.xnb</Output>
+      <Time>2012-04-27T00:40:27.2266987-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Complete\Woodlands.png</Source>
+      <Name>Tiles\Complete\Woodlands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Complete\Woodlands.xnb</Output>
+      <Time>2012-04-27T00:40:27.284702-05:00</Time>
+    </Item>
+    <Item>
+      <Source>black.bmp</Source>
+      <Name>black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\black.xnb</Output>
+      <Time>2012-04-27T00:40:27.6567233-05:00</Time>
+    </Item>
+    <Item>
+      <Source>board.bmp</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\board.xnb</Output>
+      <Time>2012-04-27T00:40:27.5767187-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.bmp</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\white.xnb</Output>
+      <Time>2012-04-27T00:40:29.0268016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Complete\Tile_Treasury.png</Source>
+      <Name>Tiles\Complete\Tile_Treasury</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Complete\Tile_Treasury.xnb</Output>
+      <Time>2012-04-27T00:40:27.2927024-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\blank.png</Source>
+      <Name>Tiles\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\blank.xnb</Output>
+      <Time>2012-04-27T00:40:27.4547117-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\good.png</Source>
+      <Name>Tiles\good</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\good.xnb</Output>
+      <Time>2012-04-27T00:40:27.1366935-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ownership\BaseTerritoryColorBlue.png</Source>
+      <Name>Tiles\Ownership\BaseTerritoryColorBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Ownership\BaseTerritoryColorBlue.xnb</Output>
+      <Time>2012-04-27T00:40:27.5137151-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ownership\BaseTerritoryColorGreen.png</Source>
+      <Name>Tiles\Ownership\BaseTerritoryColorGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Ownership\BaseTerritoryColorGreen.xnb</Output>
+      <Time>2012-04-27T00:40:27.4937139-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ownership\BaseTerritoryColorRed.png</Source>
+      <Name>Tiles\Ownership\BaseTerritoryColorRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Ownership\BaseTerritoryColorRed.xnb</Output>
+      <Time>2012-04-27T00:40:27.5207155-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ownership\BaseTerritoryColorSilver.png</Source>
+      <Name>Tiles\Ownership\BaseTerritoryColorSilver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Ownership\BaseTerritoryColorSilver.xnb</Output>
+      <Time>2012-04-27T00:40:27.5067147-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ownership\BaseTerritoryColorTan.png</Source>
+      <Name>Tiles\Ownership\BaseTerritoryColorTan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Ownership\BaseTerritoryColorTan.xnb</Output>
+      <Time>2012-04-27T00:40:27.4997143-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ownership\BaseTerritoryColorYellow.png</Source>
+      <Name>Tiles\Ownership\BaseTerritoryColorYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Ownership\BaseTerritoryColorYellow.xnb</Output>
+      <Time>2012-04-27T00:40:27.5267158-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gray.png</Source>
+      <Name>gray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\gray.xnb</Output>
+      <Time>2012-04-27T00:40:27.5837191-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Danny_Dig.jpg</Source>
+      <Name>Danny_Dig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Danny_Dig.xnb</Output>
+      <Time>2012-04-27T00:40:29.0048004-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LeftArrow.png</Source>
+      <Name>LeftArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\LeftArrow.xnb</Output>
+      <Time>2012-04-27T00:40:27.5917195-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RightArrow.png</Source>
+      <Name>RightArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\RightArrow.xnb</Output>
+      <Time>2012-04-27T00:40:29.0108007-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\cross.png</Source>
+      <Name>Tiles\cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\cross.xnb</Output>
+      <Time>2012-04-27T00:40:27.4867135-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Complete\Tile_Keep.png</Source>
+      <Name>Tiles\Complete\Tile_Keep</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Complete\Tile_Keep.xnb</Output>
+      <Time>2012-04-27T00:40:27.2757015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FlippedTile.png</Source>
+      <Name>Tiles\FlippedTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\FlippedTile.xnb</Output>
+      <Time>2012-04-27T00:40:27.1746957-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\holy.png</Source>
+      <Name>Tiles\holy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\holy.xnb</Output>
+      <Time>2012-04-27T00:40:27.2026973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Complete\Tile_Quarry.png</Source>
+      <Name>Tiles\Complete\Tile_Quarry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Complete\Tile_Quarry.xnb</Output>
+      <Time>2012-04-27T00:40:27.267701-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Complete\Tile_Wasteland.png</Source>
+      <Name>Tiles\Complete\Tile_Wasteland</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Complete\Tile_Wasteland.xnb</Output>
+      <Time>2012-04-27T00:40:27.2607006-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Worth1.png</Source>
+      <Name>Tiles\Worth1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Worth1.xnb</Output>
+      <Time>2012-04-27T00:40:27.1056917-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Worth2.png</Source>
+      <Name>Tiles\Worth2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Worth2.xnb</Output>
+      <Time>2012-04-27T00:40:27.1176924-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Worth3.png</Source>
+      <Name>Tiles\Worth3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Worth3.xnb</Output>
+      <Time>2012-04-27T00:40:27.1246928-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Worth4.png</Source>
+      <Name>Tiles\Worth4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Worth4.xnb</Output>
+      <Time>2012-04-27T00:40:27.1306932-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Worth5.png</Source>
+      <Name>Tiles\Worth5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Tiles\Worth5.xnb</Output>
+      <Time>2012-04-27T00:40:27.1486942-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SeguiUI.spritefont</Source>
+      <Name>Fonts\SeguiUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\Fonts\SeguiUI.xnb</Output>
+      <Time>2012-04-27T00:40:27.6197211-05:00</Time>
+    </Item>
+    <Item>
+      <Source>477450_Our-Ancestors-Menu-.mp3</Source>
+      <Name>477450_Our-Ancestors-Menu-</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\477450_Our-Ancestors-Menu-.xnb</Output>
+      <Extra>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\477450_Our-Ancestors-Menu-.wma</Extra>
+      <Time>2012-04-27T00:40:28.9978-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1678FBE2-DF4D-4F9B-BFD1-2AB5438B26DB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite CityContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Windows\Documents\Visual Studio 2010\Projects\Infinite City\Infinite City\Infinite City\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-04T03:04:14.3321178-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

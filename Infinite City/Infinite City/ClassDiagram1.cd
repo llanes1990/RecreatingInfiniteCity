@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InfiniteCity.Control.Controller" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABkAQkAAAIRAQDAAAAAAABTDBAiAACIQIBAJiAAQIA=</HashCode>
+      <FileName>Control\Controller.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfiniteCity.Control.Decks.FiniteDeck">
+    <Position X="9" Y="9.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABBAAAAAAABAABAAAAAAAAAAAACAAAAEAAAAAAAAGEA=</HashCode>
+      <FileName>Control\Decks\FiniteDeck.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfiniteCity.Control.Rules.Standard.TilePlacementAdjacency">
+    <Position X="1.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Rules\Standard\TilePlacementAdjacency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Rules.Standard.TokenPlacementLimit" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Rules\Standard\TokenPlacementLimit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Rules.Tiles.CrossroadsTilePlacement" Collapsed="true">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Rules\Tiles\CrossroadsTilePlacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.Crossroads">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Tiles\Crossroads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.Graveyard">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAABgAAAAABAAAAAAACAAAABBAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Control\Tiles\Graveyard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.Grove">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAABBAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Tiles\Grove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.GuildHall">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAABgAAABABAAAAAAACAAAABBAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Control\Tiles\GuildHall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.Market">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Tiles\Market.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.Neighborhood">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAABBAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Tiles\Neighborhood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.Sanctum">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAABBAAAAAAAAAAAAAAAAAAAABAAAIAAAAAAAAAAQA=</HashCode>
+      <FileName>Control\Tiles\Sanctum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Control.Tiles.Warehouse">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAABAAAAAAAAAAAAAAAAAAAABAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\Tiles\Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Game">
+    <Position X="19.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAEACAIABAAxAAEAARDgAIAgYCAAACAAAACGAAAAQ=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Program">
+    <Position X="29.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Board" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAQAAAACQAAAACBACAIIQIAAAAAAAAAgAA=</HashCode>
+      <FileName>Model\Board.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfiniteCity.Model.Deck">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAGEA=</HashCode>
+      <FileName>Model\Deck.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfiniteCity.Model.Player" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAiAIBCgA=</HashCode>
+      <FileName>Model\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfiniteCity.Model.Space" BaseTypeListCollapsed="true">
+    <Position X="23" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACABBAAAAEAIAAAQAAAAgAAAACAAAQCAAAQA=</HashCode>
+      <FileName>Model\Space.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfiniteCity.Model.Tile">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgABBDhAABgIBEASAAAABAAAAARAAAIAAAIAAAgJIBE=</HashCode>
+      <FileName>Model\Tile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfiniteCity.Model.Exceptions.InvalidSelectionException" Collapsed="true">
+    <Position X="29.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Exceptions\InvalidSelectionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Exceptions.UnknownTransitionException" Collapsed="true">
+    <Position X="29.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Exceptions\UnknownTransitionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Exceptions.UnsuccessfulActionException" Collapsed="true">
+    <Position X="29.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Exceptions\UnsuccessfulActionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Rules.Arguments.TileMovementArguments">
+    <Position X="5.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Model\Rules\Arguments\TileMovementArguments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Rules.Arguments.TokenMovementArguments">
+    <Position X="0.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Model\Rules\Arguments\TokenMovementArguments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Rules.Rule&lt;T&gt;">
+    <Position X="3.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Rules\Rule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Rules.RuleArguments">
+    <Position X="3.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Rules\RuleArguments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.Model.Rules.RuleSet&lt;T&gt;">
+    <Position X="30" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAAAA=</HashCode>
+      <FileName>Model\Rules\RuleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.View.Camera">
+    <Position X="28.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEIAAAAAAAAgEAAAAAAAAAAAAAKAIAAAABAAACA=</HashCode>
+      <FileName>View\BoardCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.View.BoardViewLayer">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAIAAEAAAAEAAAACQAAAAIgAAAA=</HashCode>
+      <FileName>View\BoardViewLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfiniteCity.View.HandViewLayer">
+    <Position X="31.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAkAAAAIAABAAAIAAAAACAAAAAEAAAAA=</HashCode>
+      <FileName>View\HandViewLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="InfiniteCity.Model.Interfaces.IBoard">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAACAAAAAAAAAAIAAIAAAAAAAAAgAA=</HashCode>
+      <FileName>Model\Interfaces\IBoard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InfiniteCity.Model.Interfaces.IController">
+    <Position X="15.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAADAAAAAAAAAAAAgAACIAABAIiAAAAA=</HashCode>
+      <FileName>Model\Interfaces\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InfiniteCity.Model.Interfaces.IDeck">
+    <Position X="17.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Model\Interfaces\IDeck.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InfiniteCity.Model.Interfaces.IGameState">
+    <Position X="19.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQEAAAAAAACAAAAAAAAAAAAgAAAIAABAJiAAQIA=</HashCode>
+      <FileName>Model\Interfaces\IGameState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InfiniteCity.Model.Interfaces.IPlayer">
+    <Position X="21" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAABCAA=</HashCode>
+      <FileName>Model\Interfaces\IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InfiniteCity.Model.Interfaces.ISelectionManager">
+    <Position X="22.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAACAAAAAAAAAAAAAAAAIAAAAIQAAQAA=</HashCode>
+      <FileName>Model\Interfaces\ISelectionManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InfiniteCity.Model.Interfaces.ISpace">
+    <Position X="22.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACAABAAAAAAIAAAAAAAAAAAAAAAAAACAAAQA=</HashCode>
+      <FileName>Model\Interfaces\ISpace.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InfiniteCity.Model.Interfaces.ITile">
+    <Position X="24.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABBDBAABAAAEAAAAAAAAAAAAAAAAAAAAIAAAgBABA=</HashCode>
+      <FileName>Model\Interfaces\ITile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="InfiniteCity.Model.Enums.Flags" Collapsed="true">
+    <Position X="14" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Enums\Flags.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InfiniteCity.Model.Enums.Selection" Collapsed="true">
+    <Position X="17.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAABAAAQAAAAAQAAAAAAAAQEBAAI=</HashCode>
+      <FileName>Model\Enums\Selection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InfiniteCity.Model.Enums.State" Collapsed="true">
+    <Position X="19.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Enums\State.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InfiniteCity.Model.Rules.RuleTypes" Collapsed="true">
+    <Position X="15.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAEAAAAgIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Rules\RuleTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
